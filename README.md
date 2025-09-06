@@ -1,4 +1,4 @@
-<h1 align="center">📊 Análise de Homicídios Dolosos no Ceará — com R</h1>
+<h1 align="center">📊 Análise de Homicídios Dolosos no Estado do Ceará: perfil das vítimas, tendências e diferenças regionais (2009-2024)</h1>
 
 <p align="center">
   <img alt="R" src="https://img.shields.io/badge/R-4.x-276DC3?logo=r&logoColor=white">
@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  Repositório dedicado à extração, tratamento, análise e visualização de <strong>homicídios dolosos</strong> no Estado do Ceará, com ênfase em 
-  <strong>R</strong> (tidyverse). Inclui scripts reprodutíveis, gráficos, tabelas e relatórios.
+  Repositório dedicado ao projeto desenvolvido durante minha bolsa de iniciação científica enquanto graduando do curso de Estatística da UFC. A análise é focada nos registros de <strong>homicídios dolosos</strong> no Ceará entre 2009 e 2024 por Região Integrada de Segurança (RIS) e por Área Integrada de Segurança Publica (AIS). 
 </p>
 
 <hr>

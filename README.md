@@ -1,4 +1,4 @@
-<h1 align="center">📊 Análise de Homicídios Dolosos no Estado do Ceará: perfil das vítimas, tendências e diferenças regionais (2009-2024)</h1>
+<h1 align="center">📊 Análise de Homicídios Dolosos no Estado do Ceará: perfil das vítimas, tendências temporais e diferenças regionais (2009-2024)</h1>
 
 <p align="center">
   <img alt="R" src="https://img.shields.io/badge/R-4.x-276DC3?logo=r&logoColor=white">

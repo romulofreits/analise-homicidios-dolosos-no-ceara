@@ -14,10 +14,8 @@
 
 <h2>🎯 Objetivos</h2>
 <ul>
-  <li>Consolidar séries temporais de homicídios dolosos por município/AIS/ano.</li>
-  <li>Calcular taxas por 100 mil habitantes e variações anuais.</li>
+  <li>Consolidar séries temporais de homicídios dolosos por Região Integrada de Segurança/AIS.</li>
   <li>Produzir visualizações claras (tendência, sazonalidade e comparação territorial).</li>
-  <li>Gerar tabelas em <em>LaTeX</em> e relatórios (<em>R Markdown/Quarto</em>).</li>
 </ul>
 
 <h2>📂 Estrutura do repositório</h2>
@@ -43,7 +41,7 @@
 <h2>🧰 Requisitos</h2>
 <ul>
   <li><strong>R</strong> 4.x</li>
-  <li>Pacotes: <code>tidyverse</code>, <code>readxl</code>, <code>janitor</code>, <code>lubridate</code>, <code>scales</code>, <code>sf</code> (se houver mapas), <code>gt</code> ou <code>kableExtra</code> para tabelas.</li>
+  <li>Pacotes: <code>tidyverse</code>, <code>readxl</code>, <code>janitor</code>, <code>lubridate</code>, <code>scales</code>, <code>sf</code>, <code>gt</code> ou <code>kableExtra</code> para tabelas.</li>
   <li>(Opcional) <code>renv</code> para reprodutibilidade.</li>
 </ul>
 
